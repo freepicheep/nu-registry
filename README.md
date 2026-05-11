@@ -21,7 +21,7 @@ A package is defined in `nuon` and the `package.nuon` is placed in a directory w
 
 Versions of your package are added to the `versions` table. This is especially important for plugins so a package manager can identify which release to fetch for the declared `nu-version`.
 
-```nuon
+```nu
 {
     package: {
         name: nu-salesforce
