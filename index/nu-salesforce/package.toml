@@ -1,0 +1,38 @@
+[package]
+name = "nu-salesforce"
+description = "Query and update your Salesforce data with Nu"
+type = "module"
+license = "MIT"
+authors = [
+  { name = "Friedrich Stoltzfus", email = "friedrichstoltzfus@gmail.com" }
+]
+keywords = ["Salesforce", "API"]
+repository = "https://github.com/freepicheep/nu-salesforce"
+
+[[versions]]
+version = "0.2.0"
+git = "https://github.com/freepicheep/nu-salesforce"
+tag = "v0.2.0"
+nu-version = ">=0.110.0"
+published = "2026-02-18"
+
+[[versions]]
+version = "0.3.0"
+git = "https://github.com/freepicheep/nu-salesforce"
+tag = "v0.3.0"
+nu-version = ">=0.110.0"
+published = "2026-02-20"
+
+[[versions]]
+version = "0.3.1"
+git = "https://github.com/freepicheep/nu-salesforce"
+tag = "v0.3.1"
+nu-version = ">=0.110.0"
+published = "2026-03-02"
+
+[[versions]]
+version = "0.3.2"
+git = "https://github.com/freepicheep/nu-salesforce"
+tag = "v0.3.2"
+nu-version = ">=0.110.0"
+published = "2026-04-09"
