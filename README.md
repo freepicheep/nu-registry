@@ -10,9 +10,9 @@ The registry is git based and has a simple layout.
 registry/
 ├── index/
 │   ├── nu-salesforce/
-│   │   └── package.toml
+│   │   └── package.nuon
 │   └── nu_plugin_semver/
-│       └── package.toml
+│       └── package.nuon
 ```
 
 ## Defining a Package
